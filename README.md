@@ -1,1 +1,0 @@
-# concluding_exercise_k8s_helm
